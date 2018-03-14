@@ -8,4 +8,4 @@
 + git commit -m "First commit"
 * git remote add origin <you repository's URL>
 + git push origin master
-#<ALL THE FILES IN THE FOLDER WILL BE PUSH UP TO THE REPOSITORY THAT YOU MADE ON GITHUB>
+# <ALL THE FILES IN THE FOLDER WILL BE PUSH UP TO THE REPOSITORY THAT YOU MADE ON GITHUB>
